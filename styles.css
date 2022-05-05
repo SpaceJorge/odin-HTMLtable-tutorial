@@ -1,4 +1,4 @@
-/*
+/* All but teacher styling*/
 html {
     font-family: sans-serif;
   }
@@ -34,8 +34,16 @@ html {
   caption {
     padding: 10px;
   }
-  */
-
+  tbody {
+    font-size: 95%;
+    font-style: italic;
+  }
+  
+  tfoot {
+    font-weight: bold;
+  }
+  
+/* Teacher Example
   html {
     font-family: sans-serif;
   }
@@ -59,3 +67,4 @@ html {
   caption {
     padding: 10px;
   }
+  */
